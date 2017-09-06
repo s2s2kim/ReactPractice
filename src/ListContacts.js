@@ -30,6 +30,7 @@ ListContacts.propTypes = {
 
 export default ListContacts
 
+
 // class ListContacts extends Component {
 //   render() {
 //     console.log('Props', this.props)
